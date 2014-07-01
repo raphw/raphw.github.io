@@ -1,0 +1,75 @@
+body {
+    padding: 15px;
+}
+
+h1 {
+    font-family: "Bevan", cursive;
+}
+
+.circular {
+    width: 178px;
+    height: 240px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background: url(../img/rafael-winterhalter.jpg) no-repeat;
+}
+
+.circular img {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+/*
+ Terminal
+*/
+
+#term {
+    padding: 4px 2px;
+    z-index: 100;
+}
+
+.terminal, .cmd {
+    background-color: #3939DE;
+    color: #9C9CFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.terminal .cmd span.inverted {
+    background-color: #9C9CFF;
+    color: #3939DE;
+}
+
+.terminal-output > div {
+    padding-top: 0;
+}
+
+div.terminal-output div div {
+    margin-top: -3px;
+}
+
+.cmd {
+    height: 1em;
+}
+
+.cmd span {
+    margin-top: -3px;
+}
+
+.terminal-border {
+    background-color: #C9C9C9;
+    border-color: #AAA;
+    -moz-border-colors: none;
+    border-style: solid;
+    border-width: 0.8px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    color: rgba(0, 0, 0, 0.8);
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 9px;
+    width: 464px;
+}
