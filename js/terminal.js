@@ -11,12 +11,17 @@ $(function () {
             'I am holding two Master\'s degrees, once in economics and one in ' +
             'computer science. I remain quite interested in economic theory and ' +
             'still read my share of scientific literature in economics. However, ' +
-            'coding is my biggest passion and I am invovled in several open source ' +
+            'coding is my biggest passion and I am involved in several open source ' +
             'projects.',
         'projects.txt': 'Check out my GitHub profile for some general overview. My biggest ' +
             'involvement in open source software is my project Byte Buddy, ' +
-            'a runtime code generator for the JVM. Other than that, I blog about ' +
-            'programming on various webpages and speak at conferences.'
+            'a runtime code generator for the JVM. I am also the author of documents4j, a ' +
+            'document format converter for Java. Other than that, I blog about ' +
+            'programming on various sites and speak at conferences and user group meetings.',
+        'talks.txt': 'I enjoy speaking at conferences and user group meetings. At the moment, ' +
+            'I offer the following talks // A topology of memory leaks on the JVM (50 - 90 minutes) ' +
+            '// Understanding Java byte code (ca. 60 minutes) // Runtime code generation on the ' +
+            'JVM (ca. 60 minutes) // Unit testing concurrent code (10 - 25 minutes)'
     };
 
     $('#term').terminal({
