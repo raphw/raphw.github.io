@@ -23,7 +23,8 @@ $(function () {
         'I offer the following talks // A topology of memory leaks on the JVM (50 - 90 minutes) ' +
         '// Understanding Java byte code (ca. 60 minutes) // Making Java more dynamic (runtime ' +
         'code generation on the JVM (45 - 60 minutes) // An introduction to JVM performance ' +
-        '(50 - 90 minutes) // Unit testing concurrent code (10 - 25 minutes)'
+        '(50 - 90 minutes) // The Java memory model for practitioners (50 - 60 minutes)' +
+		'// Unit testing concurrent code (10 - 25 minutes)'
     };
 
     $('#term').terminal({
