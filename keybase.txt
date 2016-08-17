@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/raphw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rafael.codes
+  * I am raphw (https://keybase.io/raphw) on keybase.
+  * I have a public key with fingerprint F42B 96B8 648B 5C4A 1C43  A62F BB29 14C1 FA08 11C3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01113b5107d3f4c4a81280a6b46311648f38991876ad6981a596828e1973f052b7ee0a",
+            "fingerprint": "f42b96b8648b5c4a1c43a62fbb2914c1fa0811c3",
+            "host": "keybase.io",
+            "key_id": "bb2914c1fa0811c3",
+            "kid": "01113b5107d3f4c4a81280a6b46311648f38991876ad6981a596828e1973f052b7ee0a",
+            "uid": "4a6136dfe28f245fc8f06875015bdc19",
+            "username": "raphw"
+        },
+        "service": {
+            "hostname": "rafael.codes",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471436070,
+    "expire_in": 157680000,
+    "prev": "8c89c86ee792e505c7e3e97c6f7cd01de4bda66cfc44b304c90c6d73bd4005df",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkr1uE0EQxw8HEImEhCWeYAMFwjK7t9+uI0pEEQSdtR+z9hJzd7m7OImsNBQI
+CYHgCYCKBwDJRSoUpaLgBeioaEINFXsWUFGyzWpn/v/fzozm5eW1rNc/vnH1489L
+/ZNzn77Z7P6HezcXyJb+EI0WaAdWF8w8NO14J3o0QpgQQi0nWHoamGNGkVxhIywT
+lBDBVKBKa6KkMF5oRQzXQuUKiJY0YJ5bCYANGqAQiwnUVR2LNmEDy60WViWA5YlK
+HKNG5MHaXBPmSDBYEeJoMk7LpnOk4qxpYBjLFEuP8aq8f+j/c917KxwzglDhA+Qq
+5IwHpwIWSnJMuPWO6E7YQF2YR5DUtamm++hogFJoHh10U+3a+JsOBmZDV6Y5J2NV
+l23pylnKTNu2GnXG9rDqlPtgx78ZYxsLn2aYDHOom1gWaESS0rWxgxImCaMCSzxA
+cFDFGsaxU3ApFE6n+wbmCamc0k4JAKm3c+CYOwkUtHQiSOcx8cCsN0K44BizFDOn
+sRNeUusZxtwH1LW1W5RoxFKdZpKYTZwUpt2rAR1tPL19Puv3sosXet1yZRvrV/5s
+3LNl9ubFw93hLXd3bf3644P3dybf+8sfW9nrrVO5+XX57sHnL0/OFs/Prh2/2n77
+Cw==
+=NBJF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/raphw
+
+==================================================================
