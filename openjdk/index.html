@@ -43,6 +43,12 @@
         else
             return "";
     }
+    function format_version(version) {
+        if (version > 13)
+            return "Java " + version + " (EA)";
+        else
+            return "Java " + version;
+    }
 
     CsvToHtmlTable.init({
         csv_path: 'openjdk.csv',
@@ -50,7 +56,7 @@
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false},
-        custom_formatting: [[13, format_link]]
+        custom_formatting: [[2, format_version], [13, format_link]]
     });
 </script>
 </body>
