@@ -798,7 +798,7 @@
 "Zing","8","HotSpot","Linux","x86-64","JDK","RPM","No","Yes","Trial only","GPLv2+CPE (closed extensions)","2025-03","Yes","https://www.azul.com/zing-trial-download/"
 "Zing","11","HotSpot","Linux","x86-64","JDK","Archive","No","Yes","Trial only","GPLv2+CPE (closed extensions)","2026-09","Yes","https://www.azul.com/zing-trial-download/"
 "Zing","11","HotSpot","Linux","x86-64","JDK","Debian","No","Yes","Trial only","GPLv2+CPE (closed extensions)","2026-09","Yes","https://www.azul.com/zing-trial-download/"
-"Zing","11","HotSpot","Linux","x86-64","JDK","RPM","No","Yes","Trial only","GPLv2+CPE (closed extensions),"2026-09","Yes","https://www.azul.com/zing-trial-download/"
+"Zing","11","HotSpot","Linux","x86-64","JDK","RPM","No","Yes","Trial only","GPLv2+CPE (closed extensions)","2026-09","Yes","https://www.azul.com/zing-trial-download/"
 "Zulu","6","HotSpot","Linux","x86-64","JDK","Archive","No","Yes","Yes","GPLv2+CPE","2021-12 (customers only)","Yes","https://www.azul.com/downloads/zulu-community/"
 "Zulu","6","HotSpot","Windows","x86-64","JDK","Archive","No","Yes","Yes","GPLv2+CPE","2021-12 (customers only)","Yes","https://www.azul.com/downloads/zulu-community/"
 "Zulu","6","HotSpot","Windows","x86-64","JDK","Installer","No","Yes","Yes","GPLv2+CPE","2021-12 (customers only)","Yes","https://www.azul.com/downloads/zulu-community/"
