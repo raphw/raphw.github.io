@@ -26,7 +26,7 @@
     
     <p>
         Note: This list also contains the IBM SDK and OracleJDK bundled with JRockit which are not based on OpenJDK.
-        The following list might require a few seconds to be rendered.
+        The following list might require a few seconds to be rendered. Java versions 14 and 15 are EA releases.
     </p>
 
     <div id='table-container'></div>
@@ -48,12 +48,6 @@
         else
             return "";
     }
-    function format_version(version) {
-        if (version > 13)
-            return "Java " + version + " (EA)";
-        else
-            return "Java " + version;
-    }
 
     CsvToHtmlTable.init({
         csv_path: 'openjdk.csv',
@@ -61,7 +55,7 @@
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": false},
-        custom_formatting: [[1, format_version], [13, format_link]]
+        custom_formatting: [[13, format_link]]
     });
 </script>
 </body>
