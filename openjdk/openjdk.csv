@@ -1,56 +1,56 @@
 JVM,Version,VM,OS,Architecture,Distribution,Packaging,JavaFX,JCK,Free,License,Maintained,Supported,Link
-AdoptOpenJDK,8,HotSpot,AIX,PPC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,AIX,PPC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,AARCH-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,AARCH-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,ARM-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,ARM-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,PPC-64 LE,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,S390-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,S390-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-32,JDK,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-32,JRE,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-64,JDK,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,macOS,x86-64,JRE,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Solaris,SPARC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Solaris,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,AIX,PPC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,AIX,PPC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,PPC-64 LE,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,PPC-64 LE,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,S390-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,S390-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JDK,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JRE,PKG,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JDK,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JRE,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JDK,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
-AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JRE,Installer,No,No,Yes,GPLv2+CPE,2023-09,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,AIX,PPC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,AIX,PPC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,AARCH-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,AARCH-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,ARM-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,ARM-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,PPC-64 LE,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,S390-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,S390-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-32,JDK,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-32,JRE,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-64,JDK,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,macOS,x86-64,JRE,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Solaris,SPARC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Solaris,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,AIX,PPC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,AIX,PPC-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,PPC-64 LE,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,PPC-64 LE,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,S390-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,S390-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JDK,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,macOS,x86-64,JRE,PKG,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JDK,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-32,JRE,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JDK,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
+AdoptOpenJDK,8,OpenJ9,Windows,x86-64,JRE,Installer,No,No,Yes,GPLv2+CPE,2026-05,By IBM,https://adoptopenjdk.net/releases.html
 AdoptOpenJDK,9,HotSpot,AIX,PPC-64,JDK,Archive,No,No,Yes,GPLv2+CPE,No,No,https://adoptopenjdk.net/releases.html
 AdoptOpenJDK,9,HotSpot,Linux,AARCH-64,JDK,Archive,No,No,Yes,GPLv2+CPE,No,No,https://adoptopenjdk.net/releases.html
 AdoptOpenJDK,9,HotSpot,Linux,AARCH-64,JRE,Archive,No,No,Yes,GPLv2+CPE,No,No,https://adoptopenjdk.net/releases.html
@@ -389,46 +389,46 @@ JetBrains Runtime,11,HotSpot,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,n/a,No
 JetBrains Runtime,11,HotSpot,macOS,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,n/a,No,https://bintray.com/jetbrains/intellij-jbr/
 JetBrains Runtime,11,HotSpot,Windows,x86-32,JDK,Archive,No,No,Yes,GPLv2+CPE,n/a,No,https://bintray.com/jetbrains/intellij-jbr/
 JetBrains Runtime,11,HotSpot,Windows,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,n/a,No,https://bintray.com/jetbrains/intellij-jbr/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-32,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Linux,x86-64,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JDK,PKG,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JRE,DMG,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,macOS,x86-64,JRE,PKG,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
-Liberica JDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,GPLv2+CPE,2026-01,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,ARM-64,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,PPC-64 LE,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-32,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JRE,Debian,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Linux,x86-64,JRE,RPM,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JDK,PKG,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JRE,DMG,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,macOS,x86-64,JRE,PKG,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
+Liberica JDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,GPLv2+CPE,2031-03,Yes,https://bell-sw.com/
 Liberica JDK,9,HotSpot,Linux,ARM-32 HF,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,9,HotSpot,Linux,ARM-32 HF,JDK,Debian,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,9,HotSpot,Linux,ARM-32 HF,JRE,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
@@ -757,29 +757,29 @@ Oracle JDK,7,HotSpot,Windows,x86-32,JDK,Installer,No,Yes,Yes,Binary Code License
 Oracle JDK,7,HotSpot,Windows,x86-32,JRE,Installer,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 Oracle JDK,7,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
 Oracle JDK,7,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
-Oracle JDK,8,HotSpot,Linux,ARM-32 HF,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,ARM-64 HF,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-32,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-32,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-32,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-32,JRE,RPM,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Linux,x86-64,JRE,RPM,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,macOS,x86-64,JRE,DMG,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Solaris,SPARC-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Solaris,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Development/Personal,Binary Code License,2025-03,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,ARM-32 HF,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,ARM-64 HF,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-32,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-32,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-32,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-32,JRE,RPM,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Linux,x86-64,JRE,RPM,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,macOS,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,macOS,x86-64,JRE,DMG,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Solaris,SPARC-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Solaris,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Solaris,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-32,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-32,JRE,Installer,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,8,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Development/Personal,Binary Code License,2030-12,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
 Oracle JDK,9,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase9-3934878.html
 Oracle JDK,9,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase9-3934878.html
 Oracle JDK,9,HotSpot,Linux,x86-64,JRE,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase9-3934878.html
@@ -884,16 +884,16 @@ Red Hat OpenJDK,7,HotSpot,Linux,i686,JDK,RPM,No,Yes,Development,GPLv2+CPE,2020-0
 Red Hat OpenJDK,7,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2020-06,Yes,
 Red Hat OpenJDK,7,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Development,GPLv2+CPE,2020-06,Yes,
 Red Hat OpenJDK,7,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,i686,JDK,RPM,No,Yes,Development,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Development,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,Development,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Development,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Development,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2026-05,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,i686,JDK,RPM,No,Yes,Development,GPLv2+CPE,2026-05,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2026-05,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Development,GPLv2+CPE,2026-05,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2026-05,Yes,
+Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,Development,GPLv2+CPE,2026-05,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Development,GPLv2+CPE,2026-05,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development,GPLv2+CPE,2026-05,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development,GPLv2+CPE,2026-05,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Development,GPLv2+CPE,2026-05,Yes,https://developers.redhat.com/products/openjdk/download
 Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
 Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
 Red Hat OpenJDK,11,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Development,GPLv2+CPE,2024-10,Yes,
@@ -948,9 +948,9 @@ SAPMachine,15,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2021-03,No
 SAPMachine,15,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2021-03,No,https://sap.github.io/SapMachine/
 SAPMachine,15,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2021-03,No,https://sap.github.io/SapMachine/
 SAPMachine,15,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,GPLv2+CPE,2021-03,No,https://sap.github.io/SapMachine/
-Zing,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Trial only,GPLv2+CPE (closed extensions),2025-03,Yes,https://www.azul.com/zing-trial-download/
-Zing,8,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Trial only,GPLv2+CPE (closed extensions),2025-03,Yes,https://www.azul.com/zing-trial-download/
-Zing,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Trial only,GPLv2+CPE (closed extensions),2025-03,Yes,https://www.azul.com/zing-trial-download/
+Zing,8,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Trial only,GPLv2+CPE (closed extensions),2030-12,Yes,https://www.azul.com/zing-trial-download/
+Zing,8,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Trial only,GPLv2+CPE (closed extensions),2030-12,Yes,https://www.azul.com/zing-trial-download/
+Zing,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Trial only,GPLv2+CPE (closed extensions),2030-12,Yes,https://www.azul.com/zing-trial-download/
 Zing,11,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Trial only,GPLv2+CPE (closed extensions),2026-09,Yes,https://www.azul.com/zing-trial-download/
 Zing,11,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Trial only,GPLv2+CPE (closed extensions),2026-09,Yes,https://www.azul.com/zing-trial-download/
 Zing,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Trial only,GPLv2+CPE (closed extensions),2026-09,Yes,https://www.azul.com/zing-trial-download/
