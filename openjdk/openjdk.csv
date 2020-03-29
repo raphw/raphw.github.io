@@ -879,39 +879,39 @@ Pivotal Spring Runtime,12,HotSpot,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,N
 Pivotal Spring Runtime,12,HotSpot,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,No,No,https://network.pivotal.io/products/pivotal-openjdk
 Pivotal Spring Runtime,13,HotSpot,Linux,x86-64,JDK,Archive,No,No,Yes,GPLv2+CPE,No,No,https://network.pivotal.io/products/pivotal-openjdk
 Pivotal Spring Runtime,13,HotSpot,Linux,x86-64,JRE,Archive,No,No,Yes,GPLv2+CPE,No,No,https://network.pivotal.io/products/pivotal-openjdk
-Red Hat OpenJDK,7,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,7,HotSpot,Linux,i686,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,7,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,7,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,7,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2020-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,i686,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,
-Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,11,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,
-Red Hat OpenJDK,11,HotSpot,Linux,i686,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,
-Red Hat OpenJDK,11,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,
-Red Hat OpenJDK,11,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,
-Red Hat OpenJDK,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,
-Red Hat OpenJDK,11,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,11,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,2024-10,Yes,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,12,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,12,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,13,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,
-Red Hat OpenJDK,13,HotSpot,Linux,i686,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,
-Red Hat OpenJDK,13,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,
-Red Hat OpenJDK,13,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,
-Red Hat OpenJDK,13,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,
-Red Hat OpenJDK,13,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
-Red Hat OpenJDK,13,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,7,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2020-06,Yes,
+Red Hat OpenJDK,7,HotSpot,Linux,i686,JDK,RPM,No,Yes,No,GPLv2+CPE,2020-06,Yes,
+Red Hat OpenJDK,7,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2020-06,Yes,
+Red Hat OpenJDK,7,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,No,GPLv2+CPE,2020-06,Yes,
+Red Hat OpenJDK,7,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2020-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2023-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,i686,JDK,RPM,No,Yes,No,GPLv2+CPE,2023-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2023-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,No,GPLv2+CPE,2023-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2023-06,Yes,
+Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JDK,Archive,No,Yes,No,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-32,JRE,Archive,No,Yes,No,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,No,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,No,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,8,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,No,GPLv2+CPE,2023-06,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,10,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,11,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2024-10,Yes,
+Red Hat OpenJDK,11,HotSpot,Linux,i686,JDK,RPM,No,Yes,No,GPLv2+CPE,2024-10,Yes,
+Red Hat OpenJDK,11,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2024-10,Yes,
+Red Hat OpenJDK,11,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,No,GPLv2+CPE,2024-10,Yes,
+Red Hat OpenJDK,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,No,GPLv2+CPE,2024-10,Yes,
+Red Hat OpenJDK,11,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,No,GPLv2+CPE,2024-10,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,11,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,No,GPLv2+CPE,2024-10,Yes,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,12,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,12,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,13,HotSpot,Linux,AARCH-64,JDK,RPM,No,Yes,No,GPLv2+CPE,No,No,
+Red Hat OpenJDK,13,HotSpot,Linux,i686,JDK,RPM,No,Yes,No,GPLv2+CPE,No,No,
+Red Hat OpenJDK,13,HotSpot,Linux,PPC-64,JDK,RPM,No,Yes,No,GPLv2+CPE,No,No,
+Red Hat OpenJDK,13,HotSpot,Linux,PPC-64 LE,JDK,RPM,No,Yes,No,GPLv2+CPE,No,No,
+Red Hat OpenJDK,13,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,No,GPLv2+CPE,No,No,
+Red Hat OpenJDK,13,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
+Red Hat OpenJDK,13,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,No,GPLv2+CPE,No,No,https://developers.redhat.com/products/openjdk/download
 SAPMachine,11,HotSpot,Linux,PPC-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2024-10,No,https://sap.github.io/SapMachine/
 SAPMachine,11,HotSpot,Linux,PPC-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,2024-10,No,https://sap.github.io/SapMachine/
 SAPMachine,11,HotSpot,Linux,PPC-64 LE,JDK,Archive,No,Yes,Yes,GPLv2+CPE,2024-10,No,https://sap.github.io/SapMachine/
