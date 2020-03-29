@@ -804,35 +804,35 @@ Oracle JDK,10,HotSpot,Solaris,SPARC-64,JRE,Archive,No,Yes,Yes,Binary Code Licens
 Oracle JDK,10,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html
 Oracle JDK,10,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html
 Oracle JDK,10,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html
-Oracle JDK,11,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,11,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,12,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,12,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
-Oracle JDK,13,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,13,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,Binary Code License,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Oracle JDK,14,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,Binary Code License,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Solaris,SPARC-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,11,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2026-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,12,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,12,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+Oracle JDK,13,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,13,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,OTNLA for Oracle Java SE,No,No,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,macOS,x86-64,JDK,DMG,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
+Oracle JDK,14,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Development/Personal,OTNLA for Oracle Java SE,2020-09,Yes,https://www.oracle.com/technetwork/java/javase/downloads/index.html
 Oracle OpenJDK,7,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Yes,Binary Code License,No,No,https://jdk.java.net/java-se-ri/7
 Oracle OpenJDK,7,HotSpot,Linux,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://jdk.java.net/java-se-ri/7
 Oracle OpenJDK,7,HotSpot,Windows,i586,JDK,Archive,No,Yes,Yes,Binary Code License,No,No,https://jdk.java.net/java-se-ri/7
