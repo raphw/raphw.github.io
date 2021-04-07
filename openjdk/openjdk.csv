@@ -849,7 +849,6 @@ Liberica JDK,15,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,
 Liberica JDK,15,HotSpot,Windows,x86-64,JDK,Installer,Yes,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,15,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,15,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
-
 Liberica JDK,16,HotSpot,Alpine,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,16,HotSpot,Linux,ARM-32 HF,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,16,HotSpot,Linux,ARM-32 HF,JDK,Archive,Yes,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
@@ -906,6 +905,13 @@ Liberica JDK,16,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,
 Liberica JDK,16,HotSpot,Windows,x86-64,JDK,Installer,Yes,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,16,HotSpot,Windows,x86-64,JRE,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
 Liberica JDK,16,HotSpot,Windows,x86-64,JRE,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://bell-sw.com/
+Microsoft OpenJDK,11,HotSpot,Linux,x86-64,JDK,Debian,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,11,HotSpot,Linux,x86-64,JDK,RPM,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,11,HotSpot,macOS,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,11,HotSpot,macOS,x86-64,JDK,PKG,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,11,HotSpot,Windows,x86-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,11,HotSpot,Windows,x86-64,JDK,Installer,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
+Microsoft OpenJDK,16,HotSpot,Windows,ARM-64,JDK,Archive,No,Yes,Yes,GPLv2+CPE,No,No,https://www.microsoft.com/openjdk
 Oracle JDK,1,Legacy,Solaris,SPARC-32,JDK,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-downloads-javase11-downloads.html
 Oracle JDK,1,Legacy,Solaris,SPARC-32,JRE,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-downloads-javase11-downloads.html
 Oracle JDK,1,Legacy,Solaris,x86-32,JDK,Archive,No,Yes,Yes,Binary Code License,No,No,https://www.oracle.com/java/technologies/java-archive-downloads-javase11-downloads.html
